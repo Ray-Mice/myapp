@@ -1,0 +1,6 @@
+<% provide(:title, 'Contact Us') %>
+    <h1>About Us</h1>
+    <p>
+      This is the Contact Us page for my application. You could reach me by email 
+      beautyfreak89@gmail.com
+    </p>

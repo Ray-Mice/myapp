@@ -89,7 +89,7 @@ describe "User pages" do
         fill_in "Name",         with: "Issac Clark"
         fill_in "Email",        with: "beautyfreak89@gmail.com"
         fill_in "Password",     with: "Loveyou123"
-        fill_in "Password_confirmation", with: "Loveyou123"
+        fill_in "Confirmation", with: "Loveyou123"
       end
 
       it "should create a user" do

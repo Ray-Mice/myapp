@@ -1,28 +1,16 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Application folowed last version Ruby on Rails tutorial:
 
-* Ruby version
+* Ruby 2.0.0
 
-* System dependencies
+* Rails 4.0.0
 
-* Configuration
+* Built in Ubuntu 12.04
 
-* Database creation
+* cd into working folder and running 'rails s' in console
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* testing with rspec, partially cucumber
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
